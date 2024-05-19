@@ -15,8 +15,7 @@
 
 📌 **Backend**
 
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">  
-<img src="https://img.shields.io/badge/JPA-005F0F?style=flat-square&logo=JPA&logoColor=white"> <img src="https://img.shields.io/badge/MyBatis-2E5E82?style=flat-square&logo=MyBatis&logoColor=white"> 
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/JPA-005F0F?style=flat-square&logo=JPA&logoColor=white"> <img src="https://img.shields.io/badge/MyBatis-2E5E82?style=flat-square&logo=MyBatis&logoColor=white"> 
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white">
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 
@@ -30,9 +29,11 @@
 ## Team Project
 
 [![petCommunity](https://github-readme-stats.vercel.app/api/pin/?username=whatit0&repo=petCommunity&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Imadeveloperrr/petCommunity#gh-dark-mode-only)
-[![petCommunity](https://github-readme-stats.vercel.app/api/pin/?username=Imadeveloperrr&repo=petCommunity&locale=kr&count_private=true&include_all_commits=true)](https://github.com/Imadeveloperrr/petCommunity#gh-light-mode-only)
-[![AndroidTeamProject](https://github-readme-stats.vercel.app/api/pin/?username=Imadeveloperrr&repo=AndroidTeamProject&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Imadeveloperrr/AndroidTeamProject#gh-dark-mode-only)
-[![AndroidTeamProject](https://github-readme-stats.vercel.app/api/pin/?username=Imadeveloperrr&repo=AndroidTeamProject&locale=kr&count_private=true&include_all_commits=true)](https://github.com/Imadeveloperrr/AndroidTeamProject#gh-light-mode-only)
+[![petCommunity](https://github-readme-stats.vercel.app/api/pin/?username=whatit0&repo=petCommunity&locale=kr&count_private=true&include_all_commits=true)](https://github.com/Imadeveloperrr/petCommunity#gh-light-mode-only)
+[![따릉이Project](https://github-readme-stats.vercel.app/api/pin/?username=whatit0&repo=AndroidTeamProject&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/jun981125/Wonder-Pets#gh-dark-mode-only)
+[![따릉이Project](https://github-readme-stats.vercel.app/api/pin/?username=whatit0&repo=AndroidTeamProject&locale=kr&count_private=true&include_all_commits=true)]([https://github.com/Imadeveloperrr/AndroidTeamProject](https://github.com/jun981125/Wonder-Pets#gh-light-mode-only)
+[![ShopProject](https://github-readme-stats.vercel.app/api/pin/?username=whatit0&repo=AndroidTeamProject&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/jun981125/shopproject#gh-dark-mode-only)
+[![ShopProject](https://github-readme-stats.vercel.app/api/pin/?username=whatit0&repo=AndroidTeamProject&locale=kr&count_private=true&include_all_commits=true)]([https://github.com/Imadeveloperrr/AndroidTeamProject](https://github.com/jun981125/shopproject#gh-light-mode-only)
 
 ## Personal Project
 
