@@ -19,10 +19,15 @@
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white">
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 
+📌 **Backend**
+
+<img src="https://img.shields.io/badge/React-#61DAFB?style=flat-square&logo=react&logoColor=white">
+
 📌 **DevOps**
 
 <img src="https://img.shields.io/badge/Mariadb-003545?style=flat-square&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> 
+
 
 
 - **Backend:**
