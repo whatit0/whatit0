@@ -23,7 +23,7 @@
 
 
 - **Backend:**
-  - Spring Boot, JPA, Spring Security, jwt, Tymeleaf
+  - Spring Boot, JPA, Mybatis, Tymeleaf, WebSocket
   - MariaDB, MYSQL
   - Node.js Express
 
