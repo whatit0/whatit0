@@ -25,23 +25,6 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> 
 
 
-
-## Team Project
-
-[![petCommunity](https://github-readme-stats.vercel.app/api/pin/?username=whatit0&repo=petCommunity&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Imadeveloperrr/petCommunity#gh-dark-mode-only)
-[![petCommunity](https://github-readme-stats.vercel.app/api/pin/?username=whatit0&repo=petCommunity&locale=kr&count_private=true&include_all_commits=true)](https://github.com/Imadeveloperrr/petCommunity#gh-light-mode-only)
-[![따릉이Project](https://github-readme-stats.vercel.app/api/pin/?username=whatit0&repo=AndroidTeamProject&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/jun981125/Wonder-Pets#gh-dark-mode-only)
-[![따릉이Project](https://github-readme-stats.vercel.app/api/pin/?username=whatit0&repo=AndroidTeamProject&locale=kr&count_private=true&include_all_commits=true)](https://github.com/jun981125/Wonder-Pets#gh-light-mode-only)
-[![ShopProject](https://github-readme-stats.vercel.app/api/pin/?username=whatit0&repo=AndroidTeamProject&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/jun981125/shopproject#gh-dark-mode-only)
-[![ShopProject](https://github-readme-stats.vercel.app/api/pin/?username=whatit0&repo=AndroidTeamProject&locale=kr&count_private=true&include_all_commits=true)](https://github.com/jun981125/shopproject#gh-light-mode-only)
-
-## Personal Project
-
-[![shopingmall](https://github-readme-stats.vercel.app/api/pin/?username=Imadeveloperrr&repo=shopingmall&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Imadeveloperrr/shopingmall#gh-dark-mode-only)
-[![shopingmall](https://github-readme-stats.vercel.app/api/pin/?username=Imadeveloperrr&repo=shopingmall&locale=kr&count_private=true&include_all_commits=true)](https://github.com/Imadeveloperrr/shopingmall#gh-light-mode-only)
-[![Frida](https://github-readme-stats.vercel.app/api/pin/?username=Imadeveloperrr&repo=Frida&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Imadeveloperrr/Frida#gh-dark-mode-only)
-[![Frida](https://github-readme-stats.vercel.app/api/pin/?username=Imadeveloperrr&repo=Frida&locale=kr&count_private=true&include_all_commits=true)](https://github.com/Imadeveloperrr/Frida#gh-light-mode-only)
-
 - **Backend:**
   - Spring Boot, JPA, Spring Security, jwt, Tymeleaf
   - MariaDB, MYSQL
