@@ -13,21 +13,13 @@
 
 ## 🛠 My Stack
 
-📌 **Backend**
+- **Languages:**
 
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/JPA-005F0F?style=flat-square&logo=JPA&logoColor=white"> <img src="https://img.shields.io/badge/MyBatis-2E5E82?style=flat-square&logo=MyBatis&logoColor=white"> 
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white">
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-
-📌 **Backend**
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
-
-📌 **DevOps**
-
-<img src="https://img.shields.io/badge/Mariadb-003545?style=flat-square&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> 
-
+![Java](https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white)
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Html5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Css3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 
 - **Backend:**
