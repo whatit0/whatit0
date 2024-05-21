@@ -3,12 +3,12 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhatit0%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
-## 🙌 About me
+## ✨ About me
 <ul>
   <li>안녕하세요! 꾸준히 성장하는 백엔드 개발자 한국인 입니다.</li>
   <li>최신 기술 트렌드에 관심을 가지고 지속적으로 학습합니다.</li>
-  <li>코드의 품질과 효율성을 중시하며, 지속 가능한 개발을 지향합니다.</li>
-  <li>협업을 통해 더 큰 가치를 창출하는 것을 중요하게 생각하며, 팀워크를 강조합니다.</li>
+  <li>가독성이 좋은 코드, 유지보수가 쉬운 코드를 작성하는 것을 목표로 합니다.</li>
+  <li>팀원과의 커뮤니케이션을 중요하게 생각하며 원활한 의사소통은 원래의 결과, 그 이상을 만들 수 있다 생각합니다.</li>
 </ul>
 
 ## 🛠 My Stack
