@@ -15,8 +15,9 @@
 ## Team Project
 
 [![petCommunity](https://github-readme-stats.vercel.app/api/pin/?username=whatit0&repo=petCommunity&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Imadeveloperrr/petCommunity#gh-dark-mode-only)
-[![petCommunity](https://github-readme-stats.vercel.app/api/pin/?username=Imadeveloperrr&repo=petCommunity&locale=kr&count_private=true&include_all_commits=true)](https://github.com/Imadeveloperrr/petCommunity#gh-light-mode-only)
-
+[![petCommunity](https://github-readme-stats.vercel.app/api/pin/?username=whatit0&repo=petCommunity&locale=kr&count_private=true&include_all_commits=true)](https://github.com/Imadeveloperrr/petCommunity#gh-light-mode-only)
+[![shopproject](https://github-readme-stats.vercel.app/api/pin/?username=whatit0&repo=shopproject&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/jun981125/shopproject#gh-dark-mode-only)
+[![shopproject](https://github-readme-stats.vercel.app/api/pin/?username=whatit0&repo=shopproject&locale=kr&count_private=true&include_all_commits=true)](https://github.com/jun981125/shopproject#gh-light-mode-only)
 
 ## 🛠 My Stack
 
