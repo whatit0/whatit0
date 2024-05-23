@@ -11,6 +11,13 @@
   <li>팀원간의 커뮤니케이션을 중요하게 생각하며, 원활한 의사소통을 통해 기대한 것 이상의 결과를 만들 수 있다고 생각합니다.</li>
 </ul>
 
+
+## Team Project
+
+[![petCommunity](https://github-readme-stats.vercel.app/api/pin/?username=whatit0&repo=petCommunity&border_color=444c56&locale=kr&bg_color=22272E&text_color=768383&count_private=true&include_all_commits=true)](https://github.com/Imadeveloperrr/petCommunity#gh-dark-mode-only)
+[![petCommunity](https://github-readme-stats.vercel.app/api/pin/?username=Imadeveloperrr&repo=petCommunity&locale=kr&count_private=true&include_all_commits=true)](https://github.com/Imadeveloperrr/petCommunity#gh-light-mode-only)
+
+
 ## 🛠 My Stack
 
 - **Backend:**
